@@ -8,6 +8,5 @@
 /test/dummy/log/*.log
 /test/dummy/storage/
 /test/dummy/tmp/
-/dist/
 /node_modules/
 /app/assets/javascript/*.js.map
